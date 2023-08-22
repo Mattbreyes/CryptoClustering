@@ -15,4 +15,4 @@ In this challenge, you’ll use your knowledge of Python and unsupervised learni
 ![Alt text](Images/bokeh_plot(1).png)
 ![Alt text](Images/bokeh_plot(3).png)
 
-- After reducing the number of features, the clustering improved significantly and reduced the amount of noice in the data.
+- After reducing the number of features, the clustering improved significantly and reduced the amount of noise in the data.
